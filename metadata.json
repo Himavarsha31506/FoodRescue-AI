@@ -1,0 +1,6 @@
+{
+  "name": "FoodRescue AI",
+  "description": "Smart food waste prediction and surplus redistribution platform connecting food providers, NGOs, and volunteers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
